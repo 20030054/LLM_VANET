@@ -1,0 +1,90 @@
+kvrsu|100|15|1|full-b32|--gpu-kv-budget-mb 32|
+kvrsu|100|15|1|noorder-b32|--gpu-kv-budget-mb 32 --ordering arrival|
+kvrsu|100|15|1|noadmit-b32|--gpu-kv-budget-mb 32 --admission off|
+kvrsu_static|100|15|1|b32|--gpu-kv-budget-mb 32|
+prefix_cache|100|15|1|b32|--gpu-kv-budget-mb 32|
+batched|100|15|1|b32|--gpu-kv-budget-mb 32|
+kvrsu|100|15|2|full-b32|--gpu-kv-budget-mb 32|
+kvrsu|100|15|2|noorder-b32|--gpu-kv-budget-mb 32 --ordering arrival|
+kvrsu|100|15|2|noadmit-b32|--gpu-kv-budget-mb 32 --admission off|
+kvrsu_static|100|15|2|b32|--gpu-kv-budget-mb 32|
+prefix_cache|100|15|2|b32|--gpu-kv-budget-mb 32|
+batched|100|15|2|b32|--gpu-kv-budget-mb 32|
+kvrsu|100|15|3|full-b32|--gpu-kv-budget-mb 32|
+kvrsu|100|15|3|noorder-b32|--gpu-kv-budget-mb 32 --ordering arrival|
+kvrsu|100|15|3|noadmit-b32|--gpu-kv-budget-mb 32 --admission off|
+kvrsu_static|100|15|3|b32|--gpu-kv-budget-mb 32|
+prefix_cache|100|15|3|b32|--gpu-kv-budget-mb 32|
+batched|100|15|3|b32|--gpu-kv-budget-mb 32|
+kvrsu|100|15|4|full-b32|--gpu-kv-budget-mb 32|
+kvrsu|100|15|4|noorder-b32|--gpu-kv-budget-mb 32 --ordering arrival|
+kvrsu|100|15|4|noadmit-b32|--gpu-kv-budget-mb 32 --admission off|
+kvrsu_static|100|15|4|b32|--gpu-kv-budget-mb 32|
+prefix_cache|100|15|4|b32|--gpu-kv-budget-mb 32|
+batched|100|15|4|b32|--gpu-kv-budget-mb 32|
+kvrsu|100|15|5|full-b32|--gpu-kv-budget-mb 32|
+kvrsu|100|15|5|noorder-b32|--gpu-kv-budget-mb 32 --ordering arrival|
+kvrsu|100|15|5|noadmit-b32|--gpu-kv-budget-mb 32 --admission off|
+kvrsu_static|100|15|5|b32|--gpu-kv-budget-mb 32|
+prefix_cache|100|15|5|b32|--gpu-kv-budget-mb 32|
+batched|100|15|5|b32|--gpu-kv-budget-mb 32|
+kvrsu|200|15|1|full-b32|--gpu-kv-budget-mb 32|
+kvrsu|200|15|1|noorder-b32|--gpu-kv-budget-mb 32 --ordering arrival|
+kvrsu|200|15|1|noadmit-b32|--gpu-kv-budget-mb 32 --admission off|
+kvrsu_static|200|15|1|b32|--gpu-kv-budget-mb 32|
+prefix_cache|200|15|1|b32|--gpu-kv-budget-mb 32|
+batched|200|15|1|b32|--gpu-kv-budget-mb 32|
+kvrsu|200|15|2|full-b32|--gpu-kv-budget-mb 32|
+kvrsu|200|15|2|noorder-b32|--gpu-kv-budget-mb 32 --ordering arrival|
+kvrsu|200|15|2|noadmit-b32|--gpu-kv-budget-mb 32 --admission off|
+kvrsu_static|200|15|2|b32|--gpu-kv-budget-mb 32|
+prefix_cache|200|15|2|b32|--gpu-kv-budget-mb 32|
+batched|200|15|2|b32|--gpu-kv-budget-mb 32|
+kvrsu|200|15|3|full-b32|--gpu-kv-budget-mb 32|
+kvrsu|200|15|3|noorder-b32|--gpu-kv-budget-mb 32 --ordering arrival|
+kvrsu|200|15|3|noadmit-b32|--gpu-kv-budget-mb 32 --admission off|
+kvrsu_static|200|15|3|b32|--gpu-kv-budget-mb 32|
+prefix_cache|200|15|3|b32|--gpu-kv-budget-mb 32|
+batched|200|15|3|b32|--gpu-kv-budget-mb 32|
+kvrsu|200|15|4|full-b32|--gpu-kv-budget-mb 32|
+kvrsu|200|15|4|noorder-b32|--gpu-kv-budget-mb 32 --ordering arrival|
+kvrsu|200|15|4|noadmit-b32|--gpu-kv-budget-mb 32 --admission off|
+kvrsu_static|200|15|4|b32|--gpu-kv-budget-mb 32|
+prefix_cache|200|15|4|b32|--gpu-kv-budget-mb 32|
+batched|200|15|4|b32|--gpu-kv-budget-mb 32|
+kvrsu|200|15|5|full-b32|--gpu-kv-budget-mb 32|
+kvrsu|200|15|5|noorder-b32|--gpu-kv-budget-mb 32 --ordering arrival|
+kvrsu|200|15|5|noadmit-b32|--gpu-kv-budget-mb 32 --admission off|
+kvrsu_static|200|15|5|b32|--gpu-kv-budget-mb 32|
+prefix_cache|200|15|5|b32|--gpu-kv-budget-mb 32|
+batched|200|15|5|b32|--gpu-kv-budget-mb 32|
+kvrsu|300|15|1|full-b32|--gpu-kv-budget-mb 32|
+kvrsu|300|15|1|noorder-b32|--gpu-kv-budget-mb 32 --ordering arrival|
+kvrsu|300|15|1|noadmit-b32|--gpu-kv-budget-mb 32 --admission off|
+kvrsu_static|300|15|1|b32|--gpu-kv-budget-mb 32|
+prefix_cache|300|15|1|b32|--gpu-kv-budget-mb 32|
+batched|300|15|1|b32|--gpu-kv-budget-mb 32|
+kvrsu|300|15|2|full-b32|--gpu-kv-budget-mb 32|
+kvrsu|300|15|2|noorder-b32|--gpu-kv-budget-mb 32 --ordering arrival|
+kvrsu|300|15|2|noadmit-b32|--gpu-kv-budget-mb 32 --admission off|
+kvrsu_static|300|15|2|b32|--gpu-kv-budget-mb 32|
+prefix_cache|300|15|2|b32|--gpu-kv-budget-mb 32|
+batched|300|15|2|b32|--gpu-kv-budget-mb 32|
+kvrsu|300|15|3|full-b32|--gpu-kv-budget-mb 32|
+kvrsu|300|15|3|noorder-b32|--gpu-kv-budget-mb 32 --ordering arrival|
+kvrsu|300|15|3|noadmit-b32|--gpu-kv-budget-mb 32 --admission off|
+kvrsu_static|300|15|3|b32|--gpu-kv-budget-mb 32|
+prefix_cache|300|15|3|b32|--gpu-kv-budget-mb 32|
+batched|300|15|3|b32|--gpu-kv-budget-mb 32|
+kvrsu|300|15|4|full-b32|--gpu-kv-budget-mb 32|
+kvrsu|300|15|4|noorder-b32|--gpu-kv-budget-mb 32 --ordering arrival|
+kvrsu|300|15|4|noadmit-b32|--gpu-kv-budget-mb 32 --admission off|
+kvrsu_static|300|15|4|b32|--gpu-kv-budget-mb 32|
+prefix_cache|300|15|4|b32|--gpu-kv-budget-mb 32|
+batched|300|15|4|b32|--gpu-kv-budget-mb 32|
+kvrsu|300|15|5|full-b32|--gpu-kv-budget-mb 32|
+kvrsu|300|15|5|noorder-b32|--gpu-kv-budget-mb 32 --ordering arrival|
+kvrsu|300|15|5|noadmit-b32|--gpu-kv-budget-mb 32 --admission off|
+kvrsu_static|300|15|5|b32|--gpu-kv-budget-mb 32|
+prefix_cache|300|15|5|b32|--gpu-kv-budget-mb 32|
+batched|300|15|5|b32|--gpu-kv-budget-mb 32|

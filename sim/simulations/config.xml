@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Radio channel: free-space path loss plus Nakagami-m fading, as in the
+     system models of the authors' earlier papers. Decider: IEEE 802.11p. -->
+<root>
+    <AnalogueModels>
+        <AnalogueModel type="SimplePathlossModel" thresholding="true">
+            <parameter name="alpha" type="double" value="2.2"/>
+        </AnalogueModel>
+        <AnalogueModel type="NakagamiFading">
+            <parameter name="constM" type="bool" value="true"/>
+            <parameter name="m" type="double" value="1.5"/>
+        </AnalogueModel>
+    </AnalogueModels>
+    <Decider type="Decider80211p">
+        <parameter name="centerFrequency" type="double" value="5.890e9"/>
+    </Decider>
+</root>

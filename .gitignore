@@ -1,0 +1,17 @@
+.venv/
+tools/
+results/
+logs/
+data/
+models/
+figures/
+__pycache__/
+.pytest_cache/
+sim/src/out/
+sim/src/Makefile
+sim/src/kvrsu_sim
+sim/src/kvrsu/*_m.cc
+sim/src/kvrsu/*_m.h
+sim/simulations/scenarios/
+sim/simulations/results/
+docs/PAPER_PLAN.md

@@ -1,0 +1,13 @@
+# Python packages for the decision engine, training and analysis.
+# Install PyTorch first with the CUDA build that matches the cluster (see docs/HPC_SETUP.md).
+torch>=2.3
+transformers>=4.45
+peft>=0.12
+scikit-learn>=1.4
+joblib
+numpy
+pandas
+matplotlib
+pytest
+eclipse-sumo==1.25.0   # SUMO binaries and tools without root; the version the code was tested with
+# optional, only for --load-4bit:  bitsandbytes
